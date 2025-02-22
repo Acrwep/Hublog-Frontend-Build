@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e620610.css",
+    "main.js": "/static/js/main.2a7e6916.js",
+    "static/js/748.54b8aad2.chunk.js": "/static/js/748.54b8aad2.chunk.js",
+    "static/media/logo-re-3.png": "/static/media/logo-re-3.693c53ec68eb2bd3d2e0.png",
+    "static/media/Screenshot 2024-07-05 125005.png": "/static/media/Screenshot 2024-07-05 125005.7211b60354b94d02df5e.png",
+    "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "static/media/leftbg.webp": "/static/media/leftbg.0bd02a75d69ad77ae065.webp",
+    "static/media/bgimg1.jpg": "/static/media/bgimg1.f4211a0e2050d97a66e4.jpg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.5e620610.css",
+    "static/js/main.2a7e6916.js"
+  ]
+}
