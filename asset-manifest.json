@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cbc7600d.css",
-    "main.js": "/static/js/main.b9ad5490.js",
+    "main.js": "/static/js/main.de62c5d4.js",
     "static/js/748.54b8aad2.chunk.js": "/static/js/748.54b8aad2.chunk.js",
     "static/media/congrats.jpg": "/static/media/congrats.ae7d1e2c6ca7bde83c96.jpg",
     "static/media/Download-amico.png": "/static/media/Download-amico.a820ea4cafd55a3a7166.png",
@@ -14,6 +14,6 @@
   },
   "entrypoints": [
     "static/css/main.cbc7600d.css",
-    "static/js/main.b9ad5490.js"
+    "static/js/main.de62c5d4.js"
   ]
 }
