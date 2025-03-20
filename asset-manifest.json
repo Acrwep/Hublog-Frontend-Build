@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e620610.css",
-    "main.js": "/static/js/main.2a7e6916.js",
+    "main.css": "/static/css/main.cbc7600d.css",
+    "main.js": "/static/js/main.b9ad5490.js",
     "static/js/748.54b8aad2.chunk.js": "/static/js/748.54b8aad2.chunk.js",
+    "static/media/congrats.jpg": "/static/media/congrats.ae7d1e2c6ca7bde83c96.jpg",
+    "static/media/Download-amico.png": "/static/media/Download-amico.a820ea4cafd55a3a7166.png",
     "static/media/logo-re-3.png": "/static/media/logo-re-3.693c53ec68eb2bd3d2e0.png",
     "static/media/Screenshot 2024-07-05 125005.png": "/static/media/Screenshot 2024-07-05 125005.7211b60354b94d02df5e.png",
     "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
@@ -11,7 +13,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.5e620610.css",
-    "static/js/main.2a7e6916.js"
+    "static/css/main.cbc7600d.css",
+    "static/js/main.b9ad5490.js"
   ]
 }
